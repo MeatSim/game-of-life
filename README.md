@@ -11,15 +11,15 @@ Coded in Python as a *Head First Learn to Code* project. The MVC (Model View Con
 
 These simple rules can create complex patterns as each generation progresses. "Live" cells are represented by black pixels, which turn white when they "die."
 ## How to play
-1. Either choose a pattern (glider, glider gun, or random) with the Choose a Pattern button or draw cells directly onto the grid.
-2. Press Start to start generating new generations.
-3. Press Pause to pause.
-4. Press Clear to clear the grid.
+1. Either choose a pattern (glider, glider gun, or random) with the `Choose a Pattern` button or draw cells directly onto the grid.
+2. Press `Start` to start generating new generations.
+3. Press `Pause` to pause.
+4. Press `Clear` to clear the grid.
 ## Setup
 1. Make sure you have [Python](https://www.python.org/downloads/) installed.
 2. Clone the repository to your computer.
-3. Start IDLE.
-4. Open view.py (File > Open or Ctrl+O).
-5. In the view.py window, run the module (Run > Run Module or F5).
+3. Start **IDLE** (Integrated Development and Learning Environment, bundled with Python).
+4. Open `view.py` (File > Open or `Ctrl+O`).
+5. In the view.py window, run the module (Run > Run Module or `F5`).
 ## Torus feature
 The original grid ended at the edges. The torus feature causes each edge to wrap around to the other side. The right edge connects to the left edge, and the bottom edge connects to the top edge. 
