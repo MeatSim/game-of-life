@@ -15,6 +15,9 @@ These simple rules can create complex patterns as each generation progresses. "L
 2. Press `Start` to start generating new generations.
 3. Press `Pause` to pause.
 4. Press `Clear` to clear the grid.
+
+![gameoflife](https://user-images.githubusercontent.com/31776312/156870959-91cd29be-6426-4bc7-af63-6f402ff08bfe.gif)
+
 ## Setup
 1. Make sure you have [Python](https://www.python.org/downloads/) installed.
 2. Clone the repository to your computer.
